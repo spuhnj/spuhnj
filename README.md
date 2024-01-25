@@ -1,5 +1,5 @@
 - hi! I am spong pronounced spuhnj or spung
-- I only know a little bit of JSON... in minecraft
+- I only know a little bit of JSON... in minecraft... and I recently learned the basics of C#!
 - I like giving ideas
 
 
